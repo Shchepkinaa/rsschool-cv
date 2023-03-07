@@ -40,7 +40,7 @@ function multiply(a, b){
     + *Bachelor's degree of Taxation*, 2002
 
 
-### Course 
+### Courses
 * **Netology**
     + *Web designer*, 2020 
         - [Study Project of Web-Site Design](https://www.behance.net/gallery/143844971/Website-online-store/modules/812642185)
