@@ -42,7 +42,9 @@ function multiply(a, b){
 
 ### Course 
 * **Netology**
-    + *Web designer*, 2020
+    + *Web designer*, 2020 
+        - [Study Project of Web-Site Design](https://www.behance.net/gallery/143844971/Website-online-store/modules/812642185)
+        - [Study Project of Mobile App Design](https://www.behance.net/gallery/143846067/Mobile-App-for-IOS/modules/812648027)
 * **HTML Academy**
     + *HTML & CSS. Professional Website Coding*, 2022 [Study Project "Sedona"](https://shchepkinaa.github.io/2175287-sedona-35/)
     + *HTML & CSS. Adaptive Website Coding and Automation*, 2023 [Study Project "Adaptive Sedona"](https://tubular-caramel-f1dd77.netlify.app/)
@@ -54,5 +56,5 @@ function multiply(a, b){
 
 ### Languages
 * **Russian** (Native)
-* **English** A2-B1 (In progress, not speaking practice a long time)
+* **English** A2-B1 (In progress, no speaking practice for a long time)
 * **Polish** A2-B1 (In progress)
